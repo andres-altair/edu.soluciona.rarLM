@@ -11,7 +11,13 @@
 
         .img {
            margin-top: 20px;
+           display: inline-flex;
+          
         }
+        .img :hover{
+			transform: scale(2);
+		
+		}
 
         .ol {
             padding: 0px;
